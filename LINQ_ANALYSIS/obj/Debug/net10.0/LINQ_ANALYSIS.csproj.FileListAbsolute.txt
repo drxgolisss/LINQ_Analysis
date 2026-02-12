@@ -1,0 +1,14 @@
+/Users/petrkrut/c#/LINQ_ANALYSIS/LINQ_ANALYSIS/bin/Debug/net10.0/LINQ_ANALYSIS
+/Users/petrkrut/c#/LINQ_ANALYSIS/LINQ_ANALYSIS/bin/Debug/net10.0/LINQ_ANALYSIS.deps.json
+/Users/petrkrut/c#/LINQ_ANALYSIS/LINQ_ANALYSIS/bin/Debug/net10.0/LINQ_ANALYSIS.runtimeconfig.json
+/Users/petrkrut/c#/LINQ_ANALYSIS/LINQ_ANALYSIS/bin/Debug/net10.0/LINQ_ANALYSIS.dll
+/Users/petrkrut/c#/LINQ_ANALYSIS/LINQ_ANALYSIS/bin/Debug/net10.0/LINQ_ANALYSIS.pdb
+/Users/petrkrut/c#/LINQ_ANALYSIS/LINQ_ANALYSIS/obj/Debug/net10.0/LINQ_ANALYSIS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrkrut/c#/LINQ_ANALYSIS/LINQ_ANALYSIS/obj/Debug/net10.0/LINQ_ANALYSIS.AssemblyInfoInputs.cache
+/Users/petrkrut/c#/LINQ_ANALYSIS/LINQ_ANALYSIS/obj/Debug/net10.0/LINQ_ANALYSIS.AssemblyInfo.cs
+/Users/petrkrut/c#/LINQ_ANALYSIS/LINQ_ANALYSIS/obj/Debug/net10.0/LINQ_ANALYSIS.csproj.CoreCompileInputs.cache
+/Users/petrkrut/c#/LINQ_ANALYSIS/LINQ_ANALYSIS/obj/Debug/net10.0/LINQ_ANALYSIS.dll
+/Users/petrkrut/c#/LINQ_ANALYSIS/LINQ_ANALYSIS/obj/Debug/net10.0/refint/LINQ_ANALYSIS.dll
+/Users/petrkrut/c#/LINQ_ANALYSIS/LINQ_ANALYSIS/obj/Debug/net10.0/LINQ_ANALYSIS.pdb
+/Users/petrkrut/c#/LINQ_ANALYSIS/LINQ_ANALYSIS/obj/Debug/net10.0/LINQ_ANALYSIS.genruntimeconfig.cache
+/Users/petrkrut/c#/LINQ_ANALYSIS/LINQ_ANALYSIS/obj/Debug/net10.0/ref/LINQ_ANALYSIS.dll
