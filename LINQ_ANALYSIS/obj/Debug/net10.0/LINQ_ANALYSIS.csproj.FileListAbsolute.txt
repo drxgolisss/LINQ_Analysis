@@ -12,3 +12,4 @@
 /Users/petrkrut/c#/LINQ_ANALYSIS/LINQ_ANALYSIS/obj/Debug/net10.0/LINQ_ANALYSIS.pdb
 /Users/petrkrut/c#/LINQ_ANALYSIS/LINQ_ANALYSIS/obj/Debug/net10.0/LINQ_ANALYSIS.genruntimeconfig.cache
 /Users/petrkrut/c#/LINQ_ANALYSIS/LINQ_ANALYSIS/obj/Debug/net10.0/ref/LINQ_ANALYSIS.dll
+/Users/petrkrut/c#/LINQ_ANALYSIS/LINQ_ANALYSIS/obj/Debug/net10.0/LINQ_ANALYSIS.sourcelink.json
